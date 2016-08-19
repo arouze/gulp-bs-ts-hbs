@@ -1,0 +1,23 @@
+{
+  "name": "gulp-bs-ts-hbs",
+  "version": "1.0.0",
+  "description": "An Gulp builder with BrowserSync Typescript and Handlebars support.",
+  "main": "gulpfile.js",
+  "keywords": [
+    "Gulp",
+    "BrowserSync",
+    "Typescript",
+    "Handlebars"
+  ],
+  "author": "Alexandre Rouzé",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^2.13.6",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.9"
+  }
+}
